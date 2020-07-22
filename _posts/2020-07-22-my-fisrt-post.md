@@ -1,3 +1,4 @@
-# my-first-post
-- fist
-test post!
+---
+title: "YOUR-TITLE"
+date: YYYY-MM-DD
+---
